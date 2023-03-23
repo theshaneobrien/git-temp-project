@@ -13,6 +13,6 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log("You are moving!");
+        Debug.Log("You are moving the players!");
     }
 }
