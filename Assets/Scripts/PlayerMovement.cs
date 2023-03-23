@@ -44,4 +44,9 @@ public class PlayerMovement : MonoBehaviour
         Debug.Log("You are moving the players!");
         Debug.Log("You are moving the players!");
     }
+
+    void Jump()
+    {
+        Debug.Log("Jumping");
+    }
 }
