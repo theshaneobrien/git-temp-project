@@ -48,5 +48,14 @@ public class PlayerMovement : MonoBehaviour
     void Jump()
     {
         Debug.Log("Jumping");
+        Debug.Log("Jumping");
+        Debug.Log("Jumping");
+        Debug.Log("Jumping");
+        Debug.Log("Jumping");
+        Debug.Log("Jumping");
+        Debug.Log("Jumping");
+        Debug.Log("Jumping");
+        Debug.Log("Jumping");
+        Debug.Log("Jumping");
     }
 }
